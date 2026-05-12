@@ -15,7 +15,7 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Automacao_Intelig-nciaArtificial">
+<p><a href="https://github.com/joycequoos/IA_Generativa">
 3. IA Generativa</a></p>
 </div> 
 
