@@ -20,8 +20,14 @@
 </div> 
 
 <div> 
+<p><a href="https://github.com/joycequoos/IA_Generativa">
+4. Claude Code: IA com Claude e Cowork</a></p>
+</div> 
+
+
+<div> 
 <p><a href="https://github.com/JosiTubaroski/redes_neurais_artificiais/blob/main/README.md">
-4. Origem, historia como funcionam as redes neurais artificiais?</a></p>
+5. Origem, historia como funcionam as redes neurais artificiais?</a></p>
 </div> 
 
 <div> 
