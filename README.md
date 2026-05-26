@@ -20,7 +20,7 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/joycequoos/IA_Generativa">
+<p><a href="https://github.com/joycequoos/ClaudeCode_Cowork">
 4. Claude Code: IA com Claude e Cowork</a></p>
 </div> 
 
