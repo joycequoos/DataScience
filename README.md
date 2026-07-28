@@ -2,57 +2,42 @@
 <p><a href="https://github.com/JosiTubaroski/Principal_Data/blob/main/README.md">Home</a></p>
 </div> 
 
-# ✨ Inteligencia Artificial
+# Inteligência Artificial & Data Science
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Automacao_Intelig-nciaArtificial">
-1. Automação X InteligenciaArtificial</a></p>
-</div> 
+Repositório dedicado ao estudo de Inteligência Artificial, cobrindo desde os fundamentos de redes neurais até aplicações práticas com IA generativa, PLN, chatbots e Machine Learning.
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Automacao_Intelig-nciaArtificial">
-2. PNL - Processamento de Linguagem Natural</a></p>
-</div> 
+## Fundamentos
 
-<div> 
-<p><a href="https://github.com/joycequoos/IA_Generativa">
-3. IA Generativa</a></p>
-</div> 
+| Tópico | Recurso |
+|---|---|
+| Redes Neurais Artificiais | [Origem, história e funcionamento das redes neurais artificiais](https://github.com/joycequoos/redes_neurais_artificiais/blob/main/README.md) |
+| Automação & IA | [Automação x Inteligência Artificial](https://github.com/joycequoos/Automacao_Intelig-nciaArtificial) |
 
-<div> 
-<p><a href="https://github.com/joycequoos/ClaudeCode_Cowork">
-4. Claude Code: IA com Claude e Cowork</a></p>
-</div> 
+## Processamento de Linguagem Natural (PLN)
 
+| Tópico | Recurso |
+|---|---|
+| PLN | *(a definir — verificar link, atualmente duplicado com o item de Automação acima)* |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/redes_neurais_artificiais/blob/main/README.md">
-5. Origem, historia como funcionam as redes neurais artificiais?</a></p>
-</div> 
+## IA Generativa
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Chatbox">
- </a></p>
-</div> 
+| Tópico | Recurso |
+|---|---|
+| IA Generativa | [Estudos sobre IA Generativa](https://github.com/joycequoos/IA_Generativa) |
+| Claude / Ferramentas de IA | [Claude Code: IA com Claude e Cowork](https://github.com/joycequoos/ClaudeCode_Cowork) |
 
-<h3 align="left">Chatbots:</h3>
+## Chatbots
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Chatbox">
- Chatbots</a></p>
-</div> 
+| Tópico | Recurso |
+|---|---|
+| Chatbots | [Estudos e implementações de chatbots](https://github.com/joycequoos/Chatbox) |
 
-<h3 align="left">Machine Learning:</h3>
+## Machine Learning
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Estatistica-para-MachineLearning/blob/main/Estat%C3%ADstica%20b%C3%A1sica%20para%20Machine%20Learning.ipynb">
-  1 - Estatistica Basica para Machine Learning.</a></p>
-</div> 
+| Tópico | Recurso |
+|---|---|
+| Estatística para ML | [Estatística básica para Machine Learning](https://github.com/joycequoos/Estatistica-para-MachineLearning/blob/main/Estat%C3%ADstica%20b%C3%A1sica%20para%20Machine%20Learning.ipynb) |
 
-#
+## Contato
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/IAS_Private/blob/main/README.md">Private</a></p>
-</div> 
-
-
+Sugestões, dúvidas ou colaborações são bem-vindas — abra uma *issue* ou entre em contato pelo perfil do GitHub.
