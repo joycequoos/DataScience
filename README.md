@@ -1,6 +1,4 @@
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Principal_Data/blob/main/README.md">Home</a></p>
-</div> 
+[← Voltar ao Portfólio de Dados](https://github.com/joycequoos/Principal_Data/blob/main/README.md)
 
 # Inteligência Artificial & Data Science
 
