@@ -13,11 +13,6 @@ Repositório dedicado ao estudo de Inteligência Artificial, cobrindo desde os f
 | Redes Neurais Artificiais | [Origem, história e funcionamento das redes neurais artificiais](https://github.com/joycequoos/redes_neurais_artificiais/blob/main/README.md) |
 | Automação & IA | [Automação x Inteligência Artificial](https://github.com/joycequoos/Automacao_Intelig-nciaArtificial) |
 
-## Processamento de Linguagem Natural (PLN)
-
-| Tópico | Recurso |
-|---|---|
-| PLN | *(a definir — verificar link, atualmente duplicado com o item de Automação acima)* |
 
 ## IA Generativa
 
