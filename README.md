@@ -29,7 +29,7 @@ Repositório dedicado ao estudo de Inteligência Artificial, cobrindo desde os f
 
 | Tópico | Recurso |
 |---|---|
-| Estatística para ML | [Estatística básica para Machine Learning](https://github.com/joycequoos/Estatistica-para-MachineLearning/blob/main/Estat%C3%ADstica%20b%C3%A1sica%20para%20Machine%20Learning.ipynb) |
+| Estatística para ML | [Estatística básica para Machine Learning](https://github.com/joycequoos/Estatistica-para-MachineLearning/blob/main/README.md) |
 
 ## Contato
 
